@@ -18,7 +18,7 @@ Naomi naomi = new Naomi(hookClient);
 
 ```
 
-Then on you uncaught handler or anywhere you want to send the exception
+Then on your uncaught handler or anywhere you want to send the exception
 
 ```java
 
