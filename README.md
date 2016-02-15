@@ -22,7 +22,7 @@ Then on your uncaught handler or anywhere you want to send the exception
 
 ```java
 
-naomi.notify(exeption)
+naomi.notify(exception);
 
 ```
 
