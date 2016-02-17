@@ -8,7 +8,7 @@ Naomi provides a way to notify your team when a uncaught exception occurs, sendi
 Usage
 ---
 
-Create a Naomi instance, you can use it as singleton with desired.
+Create a Naomi instance, you can use it as singleton if desired.
 
 ```java
 
